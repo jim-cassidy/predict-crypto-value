@@ -4,7 +4,7 @@ A tool to help determine value of cryptocurrencies
 
 
 UPDATE:
-I just recently converted the google colab file to pure python.
+    I just recently converted the google colab file to pure python.
 It works more easily in a virtual retirement ( will document soon... )
 
 TODO:
