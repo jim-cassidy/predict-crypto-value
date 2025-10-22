@@ -2,6 +2,8 @@
 A tool to help determine value of cryptocurrencies
 
 
+https://github.com/jim-cassidy/predict-crypto-value/blob/main/screenshots/predict-crypto-screen1.png
+
 
 UPDATE:
     I just recently converted the google colab file to pure python.
