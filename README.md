@@ -2,7 +2,7 @@
 A tool to help determine value of cryptocurrencies
 
 
-<img src="https://raw.githubusercontent.com/yourusername/your-repo/main/images/example.png" alt="Example Image" width="300"/>
+[!Alt Img](<img src="https://raw.githubusercontent.com/yourusername/your-repo/main/images/example.png" alt="Example Image" width="300"/>)
 
 
 UPDATE:
