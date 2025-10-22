@@ -2,7 +2,7 @@
 A tool to help determine value of cryptocurrencies
 
 
-![Example Image]https://github.com/jim-cassidy/predict-crypto-value/blob/main/screenshots/predict-crypto-screen1.png
+<img src="https://raw.githubusercontent.com/yourusername/your-repo/main/images/example.png" alt="Example Image" width="300"/>
 
 
 UPDATE:
