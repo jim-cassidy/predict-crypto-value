@@ -27,3 +27,4 @@ TODO:
 - write github tutorial on standard deviation
 - include already programmed AI prediction of current standard deviation value vs. actual
 - include multiple time range lookups ( 1 yr. vs 3 mon )
+- improve website ( multiple pages, bio, etc. )
