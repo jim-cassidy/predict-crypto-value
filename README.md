@@ -24,5 +24,6 @@ Server name:
 TODO:
 - polish code ( very rough now... )
 - document code better
- 
-- create a website to access this anywhere
+- write github tutorial on standard deviation
+- include already programmed AI prediction of current standard deviation value vs. actual
+- include multiple time range lookups ( 1 yr. vs 3 mon )
